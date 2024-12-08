@@ -1,0 +1,23 @@
+nav{
+    display:flex;
+    justify-content:space-between;
+   
+  
+    
+}
+ li {
+    display:inline-block;
+    align-items:center;
+    text-align: center;
+}
+
+form{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+}
+
+input{
+    
+}
