@@ -46,25 +46,28 @@ input{
     border-top: 1px;
     border-left: 0;
     border-right: 0;
-    width: 90%;
+    width: 70%;
     
 }
 
 textarea{
+    height: 40px;
     margin-left:30px;
-    padding-left:0px;
-    padding-bottom: 10px;
     background-color: #12124b;
     width: 95%;
     color:grey;
     border-bottom: 1px solid grey;
-    background-color: white;
+    
     border-top: 0;
     border-left: 0;
     border-right: 0;
-    width: 90%;
+    width: 70%;
+    resize:none;
     
 }
+
+
+
 
 button{
     border: none;
